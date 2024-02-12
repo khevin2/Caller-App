@@ -23,7 +23,7 @@
         android:layout_height="48dp"
         android:layout_above="@+id/btnCall"
         android:layout_marginBottom="200dp"
-       android:hint="Enter Phone Number"
+       android:hint="Phone Number"
         android:inputType="phone"
                 >
 
